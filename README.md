@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srikanthkakumanu
 - 👀 I’m interested in Technology, Science, Travel
-- 🌱 I’m currently learning Event Driven API Design, GraphQL, DevOps etc.
+- 🌱 I’m currently learning ML, Analytics, Event Driven API Design, GraphQL, DevOps etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://my.linkedin.com/in/srikanthkakumanu?trk=people-guest_people_search-card
 
